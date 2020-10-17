@@ -1,4 +1,4 @@
-# Hey,  I'm Souhardya <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
+# Hey,  I'm Bose <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 
 
 ## I'm a  Developer and Explorer!
