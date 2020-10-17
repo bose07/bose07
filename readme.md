@@ -8,12 +8,12 @@
 - ⚡ **Community Lead & Project Manager @ICSS**,Magaging 150 inovative minds every day.
 - ⚡ **Google  DSC-LPU CORE & BOARD MEMBER [ tech marketing & sopnsorship  lead ]**
 - ⚡  **FOUNDER AND CMO @Oasis**
-- ⚡ **Top 6 participants in HACK IN INDIA  India's biggest virtual hacathon**
+- ⚡ **Top 6 participants in HACK IN INDIA  India's biggest virtual hackthon**
 - 🌱 I’m currently **learning everything 🤣**
 - 🥅 2020 Goals: Contribute more  projects
 - ⏳ Experimenting with **JS**
 - 💬 Ask me **something interesting**
-- ⚡ Fun fact: **I love to Coding.**
+- ⚡ Fun fact: **I am bad at Competitive Coding.**
 
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
