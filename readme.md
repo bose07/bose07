@@ -1,7 +1,7 @@
 # Hey,  I'm Souhardya <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 
 
-## I'm a  Developer and Student!
+## I'm a  Developer and Explorer!
 
 - 🔭 I’m currently working on **Android & Web Project** 
 - 🌱 I’m currently **learning everything 🤣**
