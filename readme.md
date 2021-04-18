@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Android & Web Project** 
 - ⚡ In Love with **Machine Learning** because people can betray you but Machine won't.
 - ⚡ **Community Lead & Project Manager @ICSS**,Magaging 150 inovative minds every day.
-- ⚡ **Google  DSC-LPU CORE & BOARD MEMBER [ tech marketing & sopnsorship  lead ]**
+- ⚡ **Google  DSC-LPU CORE & BOARD MEMBER [ Management & Strategic lead ]**
 - ⚡  **FOUNDER AND CMO @Oasis**
 - ⚡ **Top 6 participants in HACK IN INDIA  India's biggest virtual hackthon**
 - 🌱 I’m currently **learning everything 🤣**
